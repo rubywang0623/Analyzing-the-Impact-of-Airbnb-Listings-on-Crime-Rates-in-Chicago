@@ -1,5 +1,5 @@
 **Group A4**
-- Dizhao Zhang (Project Manager)
+- Dizhao Zhang 
 - Ching Hsuan Lin
 - Ruo-Rong Wang
 - Sai Nruthya Vaka
